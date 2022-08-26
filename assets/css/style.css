@@ -3,11 +3,11 @@
     padding: 0;
     margin: 0;
 }
-
+/*This is controling the background color of the body portion of the webpage*/
 body {
     background-color: #d9dcd6;
 }
-
+/*This is controling the font and background color of the the banner at the top of the webpage*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,7 +50,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/*This is controling the the hero protion of the webpage adding margin, W/H, and background imgae found in the hero section of the webpage*/
 .hero {
     height: 1800px;
     width: 100%;
@@ -79,7 +79,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/*This is controling font, W/H,and spacing of the benefit section of the webpage*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -138,7 +138,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*This is controling the font, W/H, background color, and spacing of the banners of the topics the nav bar is leading the user to*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -148,7 +148,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*This is controling the font, W/H, background color, and spacing of the banners of the topics the nav bar is leading the user to*/
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -158,7 +158,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*This is controling the font, W/H, background color, and spacing of the banners of the topics the nav bar is leading the user to*/
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -168,7 +168,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*This is controling the image height of the thumbnails used on the benefit portion of the webpage */
 .search-engine-optimization img {
     max-height: 200px;
 }
